@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="ac3ad97b-1d22-cf40-95b2-f3f288b98088" kpf_version="4" name="phpunit-webreport.kpf">
+<preference-set idref="ac3ad97b-1d22-cf40-95b2-f3f288b98088">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
